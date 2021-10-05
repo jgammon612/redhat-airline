@@ -1,15 +1,15 @@
 [submodule "redhat-airline-cargo-api"]
 	path = redhat-airline-cargo-api
-	url = https://github.com/vincent-tsugranes/redhat-airline-cargo-api.git
+	url = https://github.com/jgammon612/redhat-airline-cargo-api.git
 [submodule "redhat-airline-airport-api"]
 	path = redhat-airline-airport-api
-	url = https://github.com/vincent-tsugranes/redhat-airline-airport-api.git
+	url = https://github.com/jgammon612/redhat-airline-airport-api.git
 [submodule "redhat-airline-crewmember-api"]
 	path = redhat-airline-crewmember-api
-	url = https://github.com/vincent-tsugranes/redhat-airline-crewmember-api.git
+	url = https://github.com/jgammon612/redhat-airline-crewmember-api.git
 [submodule "redhat-airline-flight-api"]
 	path = redhat-airline-flight-api
-	url = https://github.com/vincent-tsugranes/redhat-airline-flight-api.git
+	url = https://github.com/jgammon612/redhat-airline-flight-api.git
 [submodule "redhat-airline-ui"]
 	path = redhat-airline-ui
-	url = https://github.com/vincent-tsugranes/redhat-airline-ui.git
+	url = https://github.com/jgammon612/redhat-airline-ui.git
